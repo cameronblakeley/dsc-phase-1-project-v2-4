@@ -27,11 +27,6 @@ In the folder `zippedData` are movie datasets from:
 
 * **Microsoft should stick to the 135-138 minutes per film range.** When analyzing the data for the audience engagement based on total number of votes per film versus the average runtime per minutes per film, it was clear that the more popular films had a average runtime of 138 minutes. While the unpopular movies had an average runtime of 94 minutes. Which leads to conclude that people tend to enjoy movies within the 135-138 minutes runtime more than the latter. 
 
-## Data Visualizations
-
-![Average Movie Runtimes]('zippedData/...)
-
-
 
 ### GitHub Repository
 https://github.com/cameronblakeley/dsc-phase-1-project-v2-4
